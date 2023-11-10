@@ -16,7 +16,7 @@ bet = input(f"Pick one player for your bet? \n     [{name1}] or [{name2}]\nJust 
 
 # Variables for customization (colors, dimensions, etc.)
 # I'm using variable for changing section.
-# here you can change the colors, coordinates, title and the shape easily, so that I can find and edit it easily.
+#"Variables for customization to allow easy changing to colors, coordinates, title, and shapes for quick and simple edits."
 screen_title = 'TURTLE DRAG RACE'
 t1_border = 'SkyBlue'
 t1_fill = 'Black'
